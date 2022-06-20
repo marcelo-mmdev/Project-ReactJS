@@ -4,7 +4,8 @@ export function Header(){
   return(
     <Container>
       <div>
-        <img src="logoDebian.png" alt="logo"/>
+        <h1>CHECK LIST RÁPIDO</h1>
+        {/* <img src="logoDebian.png" alt="logo"/> */}
       </div>
     </Container>
   );

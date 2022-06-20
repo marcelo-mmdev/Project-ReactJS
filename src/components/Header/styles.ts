@@ -4,6 +4,10 @@ export const Container = styled.header`
   background-color: var(--debian);
   padding-top: 2rem; //1rem = font-size = no caso aqui font-size=16px
 
+  h1 {
+    color: #FFF;
+  }
+
   div {
     max-width: 1120px;
     margin: 0 auto;
